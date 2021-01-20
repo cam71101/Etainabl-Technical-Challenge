@@ -6,7 +6,15 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
+Change directory to .server and run
+
 ```
+nodemon server.js
+```
+then change directory back to root and run
+
+```
+
 npm run serve
 ```
 
