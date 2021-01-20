@@ -6,7 +6,7 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
-Change directory to .server and run
+Change directory to /server and run
 
 ```
 nodemon server.js
